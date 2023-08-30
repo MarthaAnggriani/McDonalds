@@ -1,0 +1,112 @@
+[
+    {
+        "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/10_1_patty",
+        "name": "Daging Sapi",
+        "itemId": 1
+    },
+    {
+        "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/BigMacSauce_180x180",
+        "name": "Sauce",
+        "itemId": 1
+    },
+    {
+        "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/10_1_patty",
+        "name": "Daging Sapi",
+        "itemId": 1
+    },
+    {
+        "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/pickles",
+        "name": "Pickles",
+        "itemId": 1
+    },
+    {
+        "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/ingredient_american_cheese_180x180",
+        "name": "Keju",
+        "itemId": 1
+    },
+    {
+        "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/10_1_patty",
+        "name": "Daging Sapi",
+        "itemId": 2
+    },
+    {
+        "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/ingredient_american_cheese_180x180",
+        "name": "Keju",
+        "itemId": 2
+    },
+    {
+        "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/Value-Chicken-Patty",
+        "name": "Ayam",
+        "itemId": 3
+    },
+    {
+        "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/mcdonalds-fries-medium:product-header-desktop?wid=829&hei=455&dpr=off",
+        "name": "Kentang Goreng",
+        "itemId": 7
+    },
+    {
+        "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/Value-Chicken-Patty",
+        "name": "Ayam",
+        "itemId": 7
+    },
+    {
+        "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/mcdonalds-fries-medium:product-header-desktop?wid=829&hei=455&dpr=off",
+        "name": "Kentang Goreng",
+        "itemId": 8
+    },
+    {
+        "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/Value-Chicken-Patty",
+        "name": "Ayam",
+        "itemId": 8
+    },
+    {
+        "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/coca_cola",
+        "name": "Minuman Soda",
+        "itemId": 5
+    },
+    {
+        "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/premium_roast_coffee_beans",
+        "name": "Kopi",
+        "itemId": 6
+    },
+    {
+        "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/light_cream",
+        "name": "light cream",
+        "itemId": 6
+    },
+    {
+        "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202002_2794_AppleSlices_NoBag_832x472:product-header-desktop?wid=830&hei=458&dpr=off",
+        "name": "Apel",
+        "itemId": 9
+    },
+    {
+        "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/vanilla_reduced_fat_cream",
+        "name": "Es Krim",
+        "itemId": 10
+    },
+    {
+        "imgUrl": "https: //s7d1.scene7.com/is/image/mcdonalds/chocolate_sauce",
+        "name": "Hot fudge topping",
+        "itemId": 10
+    },
+    {
+        "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/big_mac_bun",
+        "name": "Roti",
+        "itemId": 1
+    },
+    {
+        "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/big_mac_bun",
+        "name": "Roti",
+        "itemId": 2
+    },
+    {
+        "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/shredded_lettuce",
+        "name": "Selada",
+        "itemId": 1
+    },
+    {
+        "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/shredded_lettuce",
+        "name": "Selada",
+        "itemId": 2
+    }
+]

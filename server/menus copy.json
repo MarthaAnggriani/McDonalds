@@ -1,0 +1,103 @@
+{
+  "menus": [
+    {
+      "id": 1,
+      "name": "Big Mac",
+      "description": "A classic burger with two beef patties, special sauce, lettuce, cheese, pickles, onions, on a sesame seed bun.",
+      "price": 5.99,
+      "imgUrl": "https://example.com/big_mac.jpg",
+      "authorId": 1,
+      "categoryId": 1
+    },
+    {
+      "id": 2,
+      "name": "McChicken",
+      "description": "A crispy chicken patty topped with lettuce and mayonnaise, served in a bun.",
+      "price": 4.49,
+      "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201909_4314_McChicken_832x472:product-header-desktop?wid=830&hei=458&dpr=off",
+      "authorId": 2,
+      "categoryId": 1
+    },
+    {
+      "id": 3,
+      "name": "French Fries",
+      "description": "Golden and crispy French fries, seasoned to perfection.",
+      "price": 2.49,
+      "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202002_8932_MediumFries_832x472:product-header-desktop?wid=830&hei=458&dpr=off",
+      "authorId": 3,
+      "categoryId": 2
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Burgers"
+    },
+    {
+      "id": 2,
+      "name": "Sides"
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 1,
+      "productId": 1,
+      "name": "Beef Patties"
+    },
+    {
+      "id": 2,
+      "productId": 1,
+      "name": "Special Sauce"
+    },
+    {
+      "id": 3,
+      "productId": 1,
+      "name": "Lettuce"
+    },
+    {
+      "id": 4,
+      "productId": 1,
+      "name": "Cheese"
+    },
+    {
+      "id": 5,
+      "productId": 1,
+      "name": "Pickles"
+    },
+    {
+      "id": 6,
+      "productId": 1,
+      "name": "Onions"
+    },
+    {
+      "id": 7,
+      "productId": 1,
+      "name": "Sesame Seed Bun"
+    },
+    {
+      "id": 8,
+      "productId": 2,
+      "name": "Chicken Patty"
+    },
+    {
+      "id": 9,
+      "productId": 2,
+      "name": "Lettuce"
+    },
+    {
+      "id": 10,
+      "productId": 2,
+      "name": "Mayonnaise"
+    },
+    {
+      "id": 11,
+      "productId": 3,
+      "name": "Potatoes"
+    },
+    {
+      "id": 12,
+      "productId": 3,
+      "name": "Seasoning"
+    }
+  ]
+}
